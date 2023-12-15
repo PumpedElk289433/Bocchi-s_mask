@@ -5,4 +5,4 @@
 亦或关注我在bilibili上的账号 https://space.bilibili.com/667945000（不会经常发布关于该项目的视频）
 
 本作品遵守Creative Commons Zero v1.0 Universal协议
-《孤独摇滚！》及其角色的版权归属于芳文社
+《孤独摇滚！》及其角色的版权归属于株式会社芳文社
