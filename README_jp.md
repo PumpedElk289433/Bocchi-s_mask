@@ -3,6 +3,6 @@
 これは『ぼっち・ざ・ろっく！』の後藤一里（ポッキーちゃん）の外観を参考にして作ったマスクです。
 私はここでマスクと箱の3次元モデルを発表します。フォーマットにはstl、step、shaprが含まれています。
 ダウンロードを歓迎します。
-以下はプレビューリンクです：https://collaborate.shapr3d.com/v/ts4wnvAv4KXkhaeIPLLyv
+以下はプレビューリンクです：https://collaborate.shapr3d.com/v/ts4wnvAv4KXkhaeIPLLyv  (廃止)
 
 本作はCreative Commons Zero v 1.0 Universalプロトコル『ぼっち・ざ・ろっく！』とそのキャラクターの著作権を遵守して株式会社芳文社に帰属する 
