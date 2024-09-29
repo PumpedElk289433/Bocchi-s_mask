@@ -8,5 +8,5 @@
 
 让我们漫展再见~
 
-本作品遵守Creative Commons Zero v1.0 Universal协议
+本作品遵守MIT 协议
 《孤独摇滚！》及其角色的版权归属于株式会社芳文社
